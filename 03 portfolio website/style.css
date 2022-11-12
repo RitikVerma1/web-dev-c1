@@ -1,0 +1,44 @@
+body{
+    background-color: blueviolet;
+    margin: 0px;
+}
+h1 {
+    margin-top: 0px;
+  
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    background-color: rgb(30, 213, 229);
+    width: 100%;
+  
+    padding: 10px;
+}
+
+
+.container1{
+
+    width: 200px;
+    height:200px;
+    background-color: rgb(228, 9, 217);
+    border: 10px solid;
+}
+.container2{
+    width: 200px;
+    height:200px;
+    background-color: rgb(243, 3, 3);
+    border:20px solid;
+    margin-left: 220px;
+}
+
+.container3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(74, 27, 227);
+    border: 10px solid ;
+    margin-left:460px ;
+}
+
